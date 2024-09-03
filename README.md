@@ -1,12 +1,15 @@
-# React + Vite
+## My Web Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio website is built with a focus on showcasing my technical skills and projects. It features a responsive design implemented using modern web development technologies.
 
-Currently, two official plugins are available:
+### Key Sections:
+- **About Me**: A detailed overview of my background, experience, and professional journey.
+- **Projects**: A comprehensive showcase of my projects, each with a description, tech stack, and live demo links.
+- **Skills**: A list of my technical proficiencies, including programming languages, frameworks, and tools.
+- **Contact**: Information for reaching out, including social media links and a contact form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tech Stack:
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Deployment**: Hosted on Vercel for continuous integration and deployment.
 
-"# my-firstwebport" 
-"# my-webport" 
-"# my-webport" 
+Explore the portfolio: [my-webport.vercel.app](https://my-webport.vercel.app/)
